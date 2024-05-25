@@ -1,0 +1,11 @@
+.checkbox-label {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+
+.emp-item {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}

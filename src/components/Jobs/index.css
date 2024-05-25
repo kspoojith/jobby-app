@@ -1,0 +1,26 @@
+.jobs-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.jobs-content {
+  display: flex;
+  margin-top: 20px;
+}
+@media screen and (max-width: 576px) {
+  .jobs-content {
+    flex-direction: column;
+  }
+}
+.filters-section {
+  margin-left: 30px;
+}
+.line {
+  border: 1px solid #f8fafc;
+  margin-top: 20px;
+}
+.type-heading {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 500;
+}
