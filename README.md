@@ -1,4 +1,4 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+In this project, let's build a **Jobby App**
 <h1>USE LOGIN CREDENTIALS: rahul,rahul@2021(username,password)</h1>
 
 ### Design Files
